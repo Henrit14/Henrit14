@@ -1,3 +1,7 @@
+![image](https://github.com/Henrit14/Henrit14/assets/159345046/adf903c9-6d4f-45d2-b724-3f7adf699304)
+
+
+
 - 👋 Hi, I’m Henri
 - 👀 I’m interested in exploring a carrer in technology
 - 🌱 I’m currently learning HTML
