@@ -6,7 +6,7 @@
 - 👀 I’m interested in exploring a carrer in technology
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: HEnrit@nycstudents.net
+- 📫 How to reach me: HenriGH14@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ I'm from Albania
 
