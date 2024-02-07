@@ -4,11 +4,10 @@
 
 - 👋 Hi, I’m Henri
 - 👀 I’m interested in exploring a carrer in technology
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on anything
+- 📝 I’m currently learning HTML
+- 🧠 I’m looking to collaborate on anything
 - 📫 How to reach me: HenriGH14@gmail.com
-- 😄 Pronouns: he/him/his
-- ⚡ I'm from Albania
+- 🦅 I'm from Albania
 
 <!---
 Henrit14/Henrit14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
