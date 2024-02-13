@@ -9,6 +9,10 @@ Henrit14/Henrit14 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 - My name is Henri, a 14 year old freshman from Albania living in the Bronx who is learning how to develop. I'm currently learning HTML, but I'll soon be learning JavaScript and CSS with CodeNation.
+---------------------------
+Projects I'm Working on
+
+-I'm working on making a website with HTML on replit, you can view my work there.
 - ---------------------------
 🤔 What I want to accomplish
 -----------------------------
