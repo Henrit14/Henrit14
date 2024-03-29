@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ---------------------------
 Projects I'm Working on
 ---------------------------
--I'm working on making a website with HTML on replit, you can view my work there.
+- Working on a website for my school's world history fair. You can find the progress of it in my profiles repos.
 - ---------------------------
 🤔 What I want to accomplish
 -----------------------------
@@ -23,12 +23,12 @@ Projects I'm Working on
 😎 What I like to do
 -----------------------------
 - I like to go out with my friends after school
-- I like to play games on my computer, such as Minecraft, Fortnite, or coolmathgames.com game
+- I like to play games on my computer, such as Minecraft, Fortnite, or coolmathgames.com games
 - I like to spend time with those who I love in my life, such as my family, my friends, and those who've helped me progress throughout my life.
 -----------------------------
 🤮 Things I'm afraid of
 -----------------------------
-- I have a big fear of public speaking, and whenever I do it, I find that I stuter alot with my words.
+- I have a big fear of public speaking, and whenever I do it, I find that I stutter alot with my words.
 - I have a fear of trying new foods, espically foods from other countries, as I'm a picky eater.
 - I have a fear of being alone, as I feel like I'd make myself vulnerable in this situation.
 -----------------------------
