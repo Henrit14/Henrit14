@@ -16,7 +16,8 @@ Projects I'm Working on
 - ---------------------------
 🤔 What I want to accomplish
 -----------------------------
-- I want to develop my first few wesbites, and try to work on making tools using JavaScript.
+- I want to develop my first few wesbites.
+- I'd like to learn JavaScript
 - I would like to make it a goal to make my first program, no matter how simple it might be, and no matter how much I'll have to learn.
 - I'd like to take this new experience to apply this to other things throughout my life.
 -----------------------------
