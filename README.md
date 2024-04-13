@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ---------------------------
 Projects I'm Working on
 ---------------------------
-- Working on a website for my school's world history fair. You can find the progress of it in my profiles repos.
+- Nothing right now, as I'm learning JavaScript for real this time.
 - ---------------------------
 🤔 What I want to accomplish
 -----------------------------
@@ -39,6 +39,12 @@ Projects I'm Working on
 - I've gotten out of my comfort zone, and joined many clubs at school.
 - I've been helpful for those who need it at school and assisted people to pass their classes.
 ------------------------------
+Projects Completed
+------------------------------
+- History Website for a school project
+
+
+  
 Contact / Other Accounts
 
 https://replit.com/@henrit14
