@@ -12,7 +12,8 @@ You can click the Preview link to take a look at your changes.
 ---------------------------
 Projects I'm Working on
 ---------------------------
-- Nothing right now, as I'm learning JavaScript for real this time.
+- Making a website for a Code Nation Project (building the front page for a movement we care about)
+- Learning Javascript
 - ---------------------------
 🤔 What I want to accomplish
 -----------------------------
