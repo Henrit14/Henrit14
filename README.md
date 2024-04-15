@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 ---------------------------
 Projects I'm Working on
 ---------------------------
-- Making a website for a Code Nation Project (building the front page for a movement we care about)
 - Learning Javascript
 - ---------------------------
 🤔 What I want to accomplish
@@ -43,7 +42,7 @@ Projects I'm Working on
 Projects Completed
 ------------------------------
 - History Website for a school project
-
+- Making a website for a Code Nation Project (building the front page for a movement we care about)
 
   
 Contact / Other Accounts
