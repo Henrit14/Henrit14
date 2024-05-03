@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ---------------------------
 Projects I'm Working on
 ---------------------------
-- Learning Javascript
+- Making a login / register page
 - ---------------------------
 🤔 What I want to accomplish
 -----------------------------
