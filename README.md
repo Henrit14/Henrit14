@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ---------------------------
 Projects I'm Working on
 ---------------------------
-- Making a login / register page
+- LetsAP (Site for AP Students to discuss about AP exams, share notes, etc)
 - ---------------------------
 🤔 What I want to accomplish
 -----------------------------
