@@ -43,6 +43,7 @@ Projects Completed
 ------------------------------
 - History Website for a school project
 - Making a website for a Code Nation Project (building the front page for a movement we care about)
+- Login / Register Page
 
   
 Contact / Other Accounts
